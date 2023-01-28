@@ -1,0 +1,7 @@
+ 9  9  8  8  6 
+               => en buyuk: 9    en kucuk: 6    ortalama: 8
+1  2 
+ 9           => en buyuk: 9    en kucuk: 1    ortalama: 5
+  5  5 
+ 1  4        => en buyuk: 6    en kucuk: 1    ortalama: 4
+   => en buyuk: 6    en kucuk: 1    ortalama: 4
