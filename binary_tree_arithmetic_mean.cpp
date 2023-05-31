@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<time.h>
 
 typedef struct Agac
 {
@@ -54,6 +55,7 @@ OrtalamaBul(Agac*dugum)
 }
  main()
 {
+	srand(time(NULL));
 	Agac*kok=NULL;
 	
 	for(int i=0;i<10;i++)
